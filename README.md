@@ -17,12 +17,6 @@ The following optional features are implemented:
 The following additional features are implemented:
 
  List anything else that you can get done to improve the app functionality!
-Video Walkthrough
-Here's a walkthrough of implemented user stories:
-
-Video Walkthrough
-
-GIF created with LiceCap.
 
 Notes
 Describe any challenges encountered while building the app.
